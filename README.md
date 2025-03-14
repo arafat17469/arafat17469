@@ -114,5 +114,5 @@ I am deeply passionate about artificial intelligence, machine learning, and data
 ---
 <!-- Footer -->
 <div align="center">
-  <p>Made with ❤️ by <a href="https://arafat-portfolio-ar.netlify.app">Arafat Rahman</a></p>
+  <p>Made  by <a href="https://arafat-portfolio-ar.netlify.app">Arafat Rahman</a></p>
 </div>
