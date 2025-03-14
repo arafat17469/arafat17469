@@ -112,4 +112,7 @@ I am deeply passionate about artificial intelligence, machine learning, and data
 ![Arafat's GitHub Trophies](https://github-trophies.vercel.app/?username=arafat17469&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
+<!-- Footer -->
+<div align="center">
+  <p>Made with ❤️ by <a href="https://arafat-portfolio-ar.netlify.app">Arafat Rahman</a></p>
+</div>
