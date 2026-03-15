@@ -17,7 +17,7 @@ I am deeply passionate about artificial intelligence, machine learning, and data
   <a href="https://www.linkedin.com/in/arafat1746" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="mailto:arafatrahman174690@gmail.com" target="blank">
+  <a href="mailto:arafat17469@gmail.com" target="blank">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--mail-email-logos-icons-2416660.png?f=webp&w=256" alt="gmail" height="30" width="40" />
   </a>
   <a href="https://x.com/arafat1746" target="blank">
