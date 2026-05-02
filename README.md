@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/arafat17469/arafat17469/blob/main/Ar.jpg" alt="Arafat Rahman" width="160" style="border-radius: 50%;" />
-</p>
+![logo](https://github.com/arafat17469/arafat17469/blob/main/Ar.
 
 <h1 align="center">Hi 👋, I'm Arafat Rahman</h1>
 <h3 align="center">Aspiring Machine Learning Engineer | CSE Student | AI & Data Science Enthusiast</h3>
