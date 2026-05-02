@@ -1,7 +1,7 @@
 ![logo](https://github.com/arafat17469/arafat17469/blob/main/Ar.jpg)
 # ✫About Me :
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Description of image" width="350"  align="right">
-As-salamu alaykum, I'm **Arafat Rahman**.
+As-salamu alaykum, I'm ##Arafat Rahman.
 
 I am a **Computer Science and Engineering (CSE)** student at **Pundra University of Science and Technology** and an aspiring **Machine Learning Engineer**.
 
