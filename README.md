@@ -1,11 +1,13 @@
 ![logo](https://github.com/arafat17469/arafat17469/blob/main/Ar.jpg)
 # ✫About Me :
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Description of image" width="350"  align="right">
-As-salamu alaykum, I'm Arafat Rahman.
+As-salamu alaykum, I'm **Arafat Rahman**.
 
-I am a student and aspiring Machine Learning Engineer, currently pursuing a B.Sc. in Computer Science and Engineering (CSE) at Pundra University of Science and Technology.
+I am a **Computer Science and Engineering (CSE)** student at **Pundra University of Science and Technology** and an aspiring **Machine Learning Engineer**.
 
-I am deeply passionate about artificial intelligence, machine learning, and data science. My current focus is on learning and implementing machine learning models, data preprocessing, and predictive analytics. I have experience working with programming languages and tools such as Python, Java, C++, MySQL, and libraries like TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Keras, and PyTorch.<br>
+I am passionate about **Artificial Intelligence, Machine Learning, Data Science, Computer Vision, Natural Language Processing, and Generative AI**. My work and learning focus on building practical AI solutions through **data preprocessing, feature engineering, model training, evaluation, fine-tuning, and deployment**.
+
+I have hands-on experience with **Python, Java, C, C++, C#, JavaScript, PHP, MySQL, MongoDB**, and machine learning libraries/frameworks such as **TensorFlow, Keras, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, and SciPy**. I am also exploring modern AI engineering areas including **Transformers, Hugging Face models, Prompt Engineering, GPT APIs, LangChain, Multi-Agent Systems, RAG, Vector Databases, FastAPI, Docker, and MLflow**.
 
 ## 🌐 Connect with Me
 
@@ -15,10 +17,10 @@ I am deeply passionate about artificial intelligence, machine learning, and data
   <a href="https://www.linkedin.com/in/arafat1746"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30"/></a>
   <a href="mailto:arafat17469@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-logo-icon-download-in-svg-png-gif-file-formats--mail-email-logos-icons-2416660.png" alt="Gmail" height="30"/></a>
   <a href="https://x.com/arafat1746"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter/X" height="30"/></a>
+  <a href="https://www.kaggle.com/arafat1746"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" height="30"/></a>
   <a href="https://wa.me/+8801726847950"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30"/></a>
   <a href="https://t.me/arafat1746"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram" height="30"/></a>
 </p>
-
 ---
 
 # 💻 Tech Stack
