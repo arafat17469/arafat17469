@@ -1,6 +1,6 @@
 ![logo](https://github.com/arafat17469/arafat17469/blob/main/Ar.jpg)
 # ✫About Me :
-<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Description of image" width="350"  align="right">
+<img <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Animation" width="350" align="right">
 As-salamu alaykum, I'm Arafat Rahman.
 
 I am a student and aspiring Machine Learning Engineer, currently pursuing a B.Sc. in Computer Science and Engineering (CSE) at Pundra University of Science and Technology.
